@@ -1,5 +1,6 @@
 {
   "name": "drawing-app",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -8,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@state-designer/react": "^3.0.0",
+    "@stitches/react": "^1.2.6",
     "next": "12.0.4",
     "react": "17.0.2",
     "react-dom": "17.0.2"
